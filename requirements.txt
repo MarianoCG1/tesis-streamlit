@@ -2,7 +2,7 @@ streamlit
 pandas
 numpy
 plotly
-st-aggrid
+streamlit-aggrid
 geopandas
 shapely
 fiona
