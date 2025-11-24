@@ -470,8 +470,6 @@ if st.session_state.step == 1:
                 if csv_file:
                     # Extraer el archivo CSV desde el ZIP y leerlo en un DataFrame
                     with zip_ref.open(csv_file) as f:
-                        # Extraer el archivo CSV desde el ZIP y leerlo en un DataFrame
-                    with zip_ref.open(csv_file) as f:
                         columnas_geografia = [
                             "NOMBREDD", "NOMBREPP", "NOMBREDI",
                             "CCDD", "CCPP", "CCDI"
