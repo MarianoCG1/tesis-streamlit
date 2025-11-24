@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+st-aggrid
+geopandas
+shapely
+fiona
+pyproj
+rtree
+unidecode
