@@ -7,5 +7,5 @@ geopandas
 shapely
 fiona
 pyproj
-rtree
+re
 unidecode
