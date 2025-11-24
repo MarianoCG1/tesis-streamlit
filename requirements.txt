@@ -3,9 +3,8 @@ pandas
 numpy
 plotly
 streamlit-aggrid
-geopandas
-shapely
-fiona
-pyproj
-re
+geopandas==1.1.1
+shapely==2.1.2
+fiona==1.10.1
+pyproj==3.7.2
 unidecode
